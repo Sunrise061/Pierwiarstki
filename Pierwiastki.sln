@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pierwiastki", "Pierwiastki.csproj", "{776E00C4-749E-4AAE-BE83-B74E418E3947}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{776E00C4-749E-4AAE-BE83-B74E418E3947}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{776E00C4-749E-4AAE-BE83-B74E418E3947}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{776E00C4-749E-4AAE-BE83-B74E418E3947}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{776E00C4-749E-4AAE-BE83-B74E418E3947}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A4EEAB92-999B-41FB-9AD2-2A0D3B8E559F}
+	EndGlobalSection
+EndGlobal
